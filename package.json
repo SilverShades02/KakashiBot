@@ -1,0 +1,13 @@
+{
+  "name": "KakashiBot",
+  "version": "0.1.0",
+  "description": "A bot for managing Polls, Calendar and other stuff for your mates.",
+  "license": "MIT",
+  "author": {
+    "email": "jyotiraditya182@gmail.com",
+    "name": "Jyotiraditya"
+  },
+  "dependencies": {
+    "telegraf": "^3.7.1"
+  }
+}
