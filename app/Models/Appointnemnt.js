@@ -9,3 +9,4 @@ class Appointment {
         return this.name + ": " + this.dateTime
     }
 }
+module.exports = Appointment;
